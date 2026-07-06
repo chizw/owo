@@ -144,6 +144,229 @@
       }
     ]
   },
+  "李诗雅": {
+    "type": "image",
+    "container": [
+      {
+        "text": "lsy-bi",
+        "icon": "<img src='https://owo.qixz.cn/lsy/lsy-bi.avif'>"
+      },
+      {
+        "text": "lsy-cheese",
+        "icon": "<img src='https://owo.qixz.cn/lsy/lsy-cheese.avif'>"
+      },
+      {
+        "text": "lsy-dai",
+        "icon": "<img src='https://owo.qixz.cn/lsy/lsy-dai.avif'>"
+      },
+      {
+        "text": "lsy-drink",
+        "icon": "<img src='https://owo.qixz.cn/lsy/lsy-drink.avif'>"
+      },
+      {
+        "text": "lsy-flower",
+        "icon": "<img src='https://owo.qixz.cn/lsy/lsy-flower.avif'>"
+      },
+      {
+        "text": "lsy-fly",
+        "icon": "<img src='https://owo.qixz.cn/lsy/lsy-fly.avif'>"
+      },
+      {
+        "text": "lsy-highup",
+        "icon": "<img src='https://owo.qixz.cn/lsy/lsy-highup.avif'>"
+      },
+      {
+        "text": "lsy-looking",
+        "icon": "<img src='https://owo.qixz.cn/lsy/lsy-looking.avif'>"
+      },
+      {
+        "text": "lsy-lovely",
+        "icon": "<img src='https://owo.qixz.cn/lsy/lsy-lovely.avif'>"
+      },
+      {
+        "text": "lsy-star",
+        "icon": "<img src='https://owo.qixz.cn/lsy/lsy-star.avif'>"
+      },
+      {
+        "text": "lsy-tear",
+        "icon": "<img src='https://owo.qixz.cn/lsy/lsy-tear.avif'>"
+      },
+      {
+        "text": "lsy-wh",
+        "icon": "<img src='https://owo.qixz.cn/lsy/lsy-wh.avif'>"
+      },
+      {
+        "text": "lsy-wink",
+        "icon": "<img src='https://owo.qixz.cn/lsy/lsy-wink.avif'>"
+      },
+      {
+        "text": "lsy-yummy",
+        "icon": "<img src='https://owo.qixz.cn/lsy/lsy-yummy.avif'>"
+      },
+      {
+        "text": "lsy-zan",
+        "icon": "<img src='https://owo.qixz.cn/lsy/lsy-zan.avif'>"
+      }
+    ]
+  },
+  "小电视": {
+    "type": "image",
+    "container": [
+      {
+        "text": "bilibili-doge",
+        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-doge.png'>"
+      },
+      {
+        "text": "bilibili-亲亲",
+        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-亲亲.png'>"
+      },
+      {
+        "text": "bilibili-偷笑",
+        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-偷笑.png'>"
+      },
+      {
+        "text": "bilibili-再见",
+        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-再见.png'>"
+      },
+      {
+        "text": "bilibili-冷漠",
+        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-冷漠.png'>"
+      },
+      {
+        "text": "bilibili-发怒",
+        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-发怒.png'>"
+      },
+      {
+        "text": "bilibili-发财",
+        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-发财.png'>"
+      },
+      {
+        "text": "bilibili-可爱",
+        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-可爱.png'>"
+      },
+      {
+        "text": "bilibili-吐血",
+        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-吐血.png'>"
+      },
+      {
+        "text": "bilibili-呆",
+        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-呆.png'>"
+      },
+      {
+        "text": "bilibili-呕吐",
+        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-呕吐.png'>"
+      },
+      {
+        "text": "bilibili-困",
+        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-困.png'>"
+      },
+      {
+        "text": "bilibili-坏笑",
+        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-坏笑.png'>"
+      },
+      {
+        "text": "bilibili-大佬",
+        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-大佬.png'>"
+      },
+      {
+        "text": "bilibili-大哭",
+        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-大哭.png'>"
+      },
+      {
+        "text": "bilibili-委屈",
+        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-委屈.png'>"
+      },
+      {
+        "text": "bilibili-害羞",
+        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-害羞.png'>"
+      },
+      {
+        "text": "bilibili-尴尬",
+        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-尴尬.png'>"
+      },
+      {
+        "text": "bilibili-微笑",
+        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-微笑.png'>"
+      },
+      {
+        "text": "bilibili-思考",
+        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-思考.png'>"
+      },
+      {
+        "text": "bilibili-惊吓",
+        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-惊吓.png'>"
+      }
+    ]
+  },
+  "万穗爷": {
+    "type": "image",
+    "container": [
+      {
+        "text": "ms-angry",
+        "icon": "<img src='https://owo.qixz.cn/mansui/ms-angry.avif'>"
+      },
+      {
+        "text": "ms-baga",
+        "icon": "<img src='https://owo.qixz.cn/mansui/ms-baga.avif'>"
+      },
+      {
+        "text": "ms-baishou",
+        "icon": "<img src='https://owo.qixz.cn/mansui/ms-baishou.avif'>"
+      },
+      {
+        "text": "ms-bububu",
+        "icon": "<img src='https://owo.qixz.cn/mansui/ms-bububu.avif'>"
+      },
+      {
+        "text": "ms-buyaoa",
+        "icon": "<img src='https://owo.qixz.cn/mansui/ms-buyaoa.avif'>"
+      },
+      {
+        "text": "ms-cat",
+        "icon": "<img src='https://owo.qixz.cn/mansui/ms-cat.avif'>"
+      },
+      {
+        "text": "ms-eat",
+        "icon": "<img src='https://owo.qixz.cn/mansui/ms-eat.avif'>"
+      },
+      {
+        "text": "ms-fengshou",
+        "icon": "<img src='https://owo.qixz.cn/mansui/ms-fengshou.avif'>"
+      },
+      {
+        "text": "ms-hey",
+        "icon": "<img src='https://owo.qixz.cn/mansui/ms-hey.avif'>"
+      },
+      {
+        "text": "ms-jiajia",
+        "icon": "<img src='https://owo.qixz.cn/mansui/ms-jiajia.avif'>"
+      },
+      {
+        "text": "ms-masa",
+        "icon": "<img src='https://owo.qixz.cn/mansui/ms-masa.avif'>"
+      },
+      {
+        "text": "ms-sha",
+        "icon": "<img src='https://owo.qixz.cn/mansui/ms-sha.avif'>"
+      },
+      {
+        "text": "ms-shower",
+        "icon": "<img src='https://owo.qixz.cn/mansui/ms-shower.avif'>"
+      },
+      {
+        "text": "ms-yeah",
+        "icon": "<img src='https://owo.qixz.cn/mansui/ms-yeah.avif'>"
+      },
+      {
+        "text": "ms-yeye",
+        "icon": "<img src='https://owo.qixz.cn/mansui/ms-yeye.avif'>"
+      },
+      {
+        "text": "ms-zan",
+        "icon": "<img src='https://owo.qixz.cn/mansui/ms-zan.avif'>"
+      }
+    ]
+  },
   "清羽酱": {
     "type": "image",
     "container": [
@@ -511,95 +734,6 @@
       {
         "text": "blobcatyandere",
         "icon": "<img src='https://owo.qixz.cn/blobcat/blobcatyandere.webp'>"
-      }
-    ]
-  },
-  "小电视": {
-    "type": "image",
-    "container": [
-      {
-        "text": "bilibili-doge",
-        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-doge.png'>"
-      },
-      {
-        "text": "bilibili-亲亲",
-        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-亲亲.png'>"
-      },
-      {
-        "text": "bilibili-偷笑",
-        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-偷笑.png'>"
-      },
-      {
-        "text": "bilibili-再见",
-        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-再见.png'>"
-      },
-      {
-        "text": "bilibili-冷漠",
-        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-冷漠.png'>"
-      },
-      {
-        "text": "bilibili-发怒",
-        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-发怒.png'>"
-      },
-      {
-        "text": "bilibili-发财",
-        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-发财.png'>"
-      },
-      {
-        "text": "bilibili-可爱",
-        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-可爱.png'>"
-      },
-      {
-        "text": "bilibili-吐血",
-        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-吐血.png'>"
-      },
-      {
-        "text": "bilibili-呆",
-        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-呆.png'>"
-      },
-      {
-        "text": "bilibili-呕吐",
-        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-呕吐.png'>"
-      },
-      {
-        "text": "bilibili-困",
-        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-困.png'>"
-      },
-      {
-        "text": "bilibili-坏笑",
-        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-坏笑.png'>"
-      },
-      {
-        "text": "bilibili-大佬",
-        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-大佬.png'>"
-      },
-      {
-        "text": "bilibili-大哭",
-        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-大哭.png'>"
-      },
-      {
-        "text": "bilibili-委屈",
-        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-委屈.png'>"
-      },
-      {
-        "text": "bilibili-害羞",
-        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-害羞.png'>"
-      },
-      {
-        "text": "bilibili-尴尬",
-        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-尴尬.png'>"
-      },
-      {
-        "text": "bilibili-微笑",
-        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-微笑.png'>"
-      },
-      {
-        "text": "bilibili-思考",
-        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-思考.png'>"
-      },
-      {
-        "text": "bilibili-惊吓",
-        "icon": "<img src='https://owo.qixz.cn/bilibili/bilibili-惊吓.png'>"
       }
     ]
   },

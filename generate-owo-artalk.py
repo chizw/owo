@@ -69,7 +69,7 @@ def generate_artalk_emojis(base_url, emoji_folders, output_path='.json/artalk-em
 
 if __name__ == "__main__":
     base_url = "https://owo.qixz.cn"
-    folders = ["qingzhu", "liushen", "blobcat", "bilibili", "zhheo"]
+    folders = ["qingzhu", "lsy", "bilibili", "mansui", "liushen", "blobcat", "zhheo"]
     origin_json = ".json/artalk-emoji.json"
     output = ".json/artalk-emoji.json"
     

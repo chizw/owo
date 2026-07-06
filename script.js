@@ -18,10 +18,12 @@ const App = {
   },
 
   categoryNames: {
-    qingzhu: '青竹',
-    liushen: '六神',
-    blobcat: 'Blob Cat',
+    qingzhu: '青竹君',
+    lsy: "李诗雅",
     bilibili: '哔哩哔哩',
+    mansui: "万穗爷",
+    liushen: '轻羽酱',
+    blobcat: 'Blob Cat',
     zhheo: 'Zhheo'
   },
 

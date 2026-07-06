@@ -37,8 +37,10 @@ def generate_twikoo_emojis(base_url, emoji_folders, output_path='.json/twikoo-em
         # 可以根据文件夹名称自定义类别显示名称
         display_names = {
             "qingzhu": "青竹君",
-            "blobcat": "可爱猫",
+	    "lsy": "李诗雅",
             "bilibili": "小电视",
+	    "mansui": "万穗爷",
+            "blobcat": "可爱猫",
             "liushen": "清羽酱",
             "zhheo": "张洪Heo",
         }
@@ -85,7 +87,7 @@ def generate_twikoo_emojis(base_url, emoji_folders, output_path='.json/twikoo-em
 
 if __name__ == "__main__":
     base_url = "https://owo.qixz.cn"
-    folders = ["qingzhu", "liushen", "blobcat", "bilibili", "zhheo"]
+    folders = ["qingzhu", "lsy", "bilibili", "mansui", "liushen", "blobcat", "zhheo"]
     origin_json = ".json/twikoo.json"
     output = ".json/twikoo-emoji.json"
     
